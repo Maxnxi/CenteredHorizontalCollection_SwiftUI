@@ -18,6 +18,13 @@ A SwiftUI package for creating smooth, physics-based horizontal scrolling collec
 - Interactive selection with binding support
 - Optimized for performance with efficient view updates
 
+
+![photo_2025-04-26 23 09 25](https://github.com/user-attachments/assets/069ce56f-3e21-4deb-8ddc-74c780e30ec0)
+
+
+https://github.com/user-attachments/assets/0da42b89-1099-47da-976f-faa2d16905cc
+
+
 ## Installation
 
 ### Swift Package Manager
