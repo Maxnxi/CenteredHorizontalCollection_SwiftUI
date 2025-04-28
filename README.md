@@ -1,4 +1,4 @@
-# CenteredHorizontalCollection
+# CenteredHorizontalCollection in SwiftUI
 
 A SwiftUI package for creating smooth, physics-based horizontal scrolling collections with automatic item centering.
 
